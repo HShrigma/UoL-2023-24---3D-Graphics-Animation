@@ -1,0 +1,26 @@
+Bowling ball stats:
+Candle-Pin - R - 5.5 cm - W - 1 kg
+Five-Pin - R - 6.3 cm - W - 1.5 kg
+Nine-Pin - R - 8 cm - W - 2.85 kg
+Ten-Pin - R - .10.8 cm - W - 7.3 kg
+
+All - low static Friction, Little to no Bounce
+
+Bowling Pin:
+Height - 38 cm
+Width max - 12.1 cm
+Width Min (@ Bottom) - 5.16 cm
+
+Material - Laquered wood
+okay static fiction, little to no bounce
+
+Bowling Lane:
+
+Slippery Part (track)
+Rough Part (pin area)
+Non-Slipery Part (Starting Zone)
+Width: 130 cm
+Length:
+	Starting zone - 457 cm
+	Track - 1916 cm
+	Pin Area - 100cm
